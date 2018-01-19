@@ -22,7 +22,7 @@ App to encrypt and decrypt strings (Insecurely).
     
 #### Example
 
-                      T     I     M     O     T     H     Y
+-                      T     I     M     O     T     H     Y
 - nth Index             20    9    13    15    20     8    25
 
 
