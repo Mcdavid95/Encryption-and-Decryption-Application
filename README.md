@@ -24,7 +24,7 @@ App to encrypt and decrypt strings (Insecurely).
     
 Word | nth Index | Hash value | Encrypted Value
 --- | --- | --- | ---
-| TIMOTHY | 20    9    13    15    20     8    25 | b | c
+| TIMOTHY | 20    9    13    15    20     8    25 | 10    28   40    46    10     4    76 | c
 20    9    13    15    20     8    25
 ### Decryption
 
