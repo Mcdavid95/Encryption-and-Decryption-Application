@@ -10,15 +10,15 @@ App to encrypt and decrypt strings (Insecurely).
 
 2. Calculate the 'hash' value by using the folowing formula:
   
-⋅⋅* a. If n is odd, multiply by 3 and add 1.
+   a. If n is odd, multiply by 3 and add 1.
     
-⋅⋅* b. If n is even, divide by 2.
+   b. If n is even, divide by 2.
     
 3. To help with decryption, add a prefix to the hash value as below
 
-⋅⋅* a. If n is even, add the 'e' character as a prefix to the hash value
+   a. If n is even, add the 'e' character as a prefix to the hash value
     
-⋅⋅* b. If n is odd, add the 'o' character as a prefix to the hash value
+   b. If n is odd, add the 'o' character as a prefix to the hash value
     
 #### Example
 
