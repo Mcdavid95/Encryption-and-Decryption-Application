@@ -22,14 +22,13 @@ App to encrypt and decrypt strings (Insecurely).
     
 #### Example
 
-⋅⋅*                      T     I     M     O     T     H     Y
-- nth Index             20    9    13    15    20     8    25
+T     I     M     O     T     H     Y
+20    9    13    15    20     8    25   - nth Index             
+
+10    28   40    46    10     4    76   - Hash Value
 
 
-- Hash Value            10    28   40    46    10     4    76
-
-
-- Encrypted Value       e10  o28  o40    o46   e10   e4    o76
+e10  o28  o40    o46   e10   e4    o76  - Encrypted Value       
 
 
 ### Decryption
