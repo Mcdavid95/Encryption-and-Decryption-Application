@@ -29,7 +29,9 @@ T     I     M     O     T     H     Y
 
 
 e10  o28  o40    o46   e10   e4    o76  - Encrypted Value       
-
+| ------------- |:-------------:| -----:|
+| TIMOTHY     | 20    9    13    15    20     8    25 | 
+10    28   40    46    10     4    76| e10  o28  o40    o46   e10   e4    o76 |
 
 ### Decryption
 
