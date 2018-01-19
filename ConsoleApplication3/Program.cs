@@ -197,10 +197,8 @@ namespace ConsoleApplication3
         static void Main(string[] args)
         {
             Program obj = new Program();
-            obj.Decrypt("o10o46o64o58o4e7e10");
-            obj.Encrypt("Cousant");
-            obj.Encrypt("hey");
-            obj.Decrypt("e4o16o76");
+            obj.Encrypt("timothy");
+            obj.Decrypt("e10o28o40o46e10e4o76");
         }
     }
 }
