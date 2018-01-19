@@ -28,5 +28,5 @@ Word | nth Index | Hash value | Encrypted Value
 
 ### Decryption
 
-1. Decrypt the encrypted string, so that 'Timothy' returns 'e10o28o40o46e10e4o76'
+1. Decrypt the encrypted string, so that 'e10o28o40o46e10e4o76' returns 'Timothy'
 
